@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
+h1{
+    margin: 0;
+}
