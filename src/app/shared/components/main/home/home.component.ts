@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HomeCardComponent } from '../home-card/home-card.component';
-import appConfig from '../../../app.config.json';
+import appConfig from '../../../../app.config.json';
 import { NgFor } from '@angular/common';
 
 @Component({

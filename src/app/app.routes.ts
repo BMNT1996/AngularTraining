@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
-import { AboutComponent } from './shared/components/about/about.component';
-import { PageNotFoundComponent } from './shared/components/page-not-found/page-not-found.component';
-import { HomeComponent } from './shared/components/home/home.component';
+import { AboutComponent } from './shared/components/main/about/about.component';
+import { PageNotFoundComponent } from './shared/components/main/page-not-found/page-not-found.component';
+import { HomeComponent } from './shared/components/main/home/home.component';
 
 export const routes: Routes = [
     { path: 'home', component: HomeComponent},

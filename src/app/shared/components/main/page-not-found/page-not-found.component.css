@@ -1,0 +1,20 @@
+.pageNotFound {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image404 {
+    width: 200px;
+    align-self: center;
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
