@@ -1,5 +1,5 @@
 {
     "cards": [
-        {"name": "Test 1", "path":"/about"}
+        {"name": "Toolbar", "path":"/toolbar"}
     ]
 }
