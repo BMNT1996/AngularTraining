@@ -11,8 +11,6 @@ import { NgFor } from '@angular/common';
   styleUrl: './home.component.css'
 })
 export class HomeComponent implements OnInit{
-  
-
   cards: Cards[] = [];
   
   ngOnInit(): void {

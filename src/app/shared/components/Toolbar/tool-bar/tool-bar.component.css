@@ -1,0 +1,26 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: violet;
+}
+
+h2 {
+    margin: 5px;
+}
+
+ul {
+    align-self: center;
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    float: left;
+    margin: 0px 15px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,8 @@
+<div class="toolbar">
+    <h2>{{title}}</h2>
+    <ul>
+        <li *ngFor="let menu of menus">
+            <a href={{menu.link}} target="_blank">{{menu.title}}</a>
+        </li>
+    </ul>
+</div>
